@@ -10,7 +10,7 @@ How to use :
 3. doubble click the exe file
 4. start installing the server with the instruction.
 
-Java is require to run.
+Java is require to run the installed server.
 
 -------------------------------------------------------------
 
@@ -22,7 +22,7 @@ A - Yes, you can, but don't make it yourself and publish at another platform.
 
 Q - Does I need to install another software?
 
-A - yes, you will need java in order to run minecraft server.
+A - yes, you will need java in order to run minecraft server. Java version is depend on what server version you installed.
 
 Q - Does I need to agree some end-user-license-agreement?
 
